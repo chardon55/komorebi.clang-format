@@ -1,2 +1,3 @@
-# komorebi.clang-format
-Komorebi format written in Clang Format
+# Komorebi format
+
+Komorebi format in .clang-format
